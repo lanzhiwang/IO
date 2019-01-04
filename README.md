@@ -59,3 +59,4 @@ epoll既然是对select和poll的改进，就应该能避免上述的三个缺�
 * [select](http://www.cnblogs.com/Anker/archive/2013/08/14/3258674.html)
 * [poll](http://www.cnblogs.com/Anker/archive/2013/08/15/3261006.html)
 * [epoll](http://www.cnblogs.com/Anker/archive/2013/08/17/3263780.html)
+* [epoll 详解](http://www.cnblogs.com/my_life/articles/3968782.html)
