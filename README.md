@@ -70,3 +70,4 @@ epoll既然是对select和poll的改进，就应该能避免上述的三个缺�
 * [poll](http://www.cnblogs.com/Anker/archive/2013/08/15/3261006.html)
 * [epoll](http://www.cnblogs.com/Anker/archive/2013/08/17/3263780.html)
 * [epoll 详解](http://www.cnblogs.com/my_life/articles/3968782.html)
+* [Linux select 一网打尽](https://mp.weixin.qq.com/s/dr6nmAg1XVjnx3hF51IC2g)
